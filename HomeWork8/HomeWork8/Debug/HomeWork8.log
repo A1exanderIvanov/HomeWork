@@ -1,0 +1,3 @@
+﻿  HomeWork8.cpp
+C:\Users\N\source\repos\HomeWork8\HomeWork8\HomeWork8.cpp(256): warning C4715: getAICoord: значение возвращается не при всех путях выполнения
+  HomeWork8.vcxproj -> C:\Users\N\source\repos\HomeWork8\Debug\HomeWork8.exe
